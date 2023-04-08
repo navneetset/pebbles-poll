@@ -3,13 +3,13 @@
 	"id": "pebbles-poll",
 	"version": "${version}",
 	"name": "Pebble's Poll",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Server-side fabric mod. Addition to the Pebble's Minecraft mod series. Generate a clickable live poll with scoreboard update. Requires Fabric Language Kotlin modL: https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin",
 	"authors": [
-		"Me!"
+		"navneetset"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/navneetset/pebbles-poll/"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/pebbles-poll/icon.png",
