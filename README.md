@@ -14,26 +14,26 @@ Running a Minecraft server, I often find myself having to go to Discord to creat
 
  
 
-/pebblespoll create <question>
+`/pebblespoll create` <question>
 
-/pebblespoll <time> (in minutes)
+`/pebblespoll time` (in minutes)
 
-/pebblespoll options option1, option2, option3, .... (comma-separated)
+`/pebblespoll options option1, option2, option3, ....` (comma-separated)
 
  
 
 After creating options, the poll will start. Everyone can either click the choice in chat or type:
 
-/pebblespoll vote <option_number>
+`/pebblespoll vote <option_number>`
 
  
 
  To forcefully bring a poll to an end:
 
-/pebblespoll end
+`/pebblespoll end`
 
  
 
 To clear the scoreboard
 
-/pebblespoll clear
+`/pebblespoll clear`
